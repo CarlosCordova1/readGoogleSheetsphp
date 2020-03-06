@@ -8,7 +8,7 @@ para mas informacion aqui. https://developers.google.com/sheets/api/quickstart/p
 ejemplo de implementacion
 https://www.aguakan.com/git/test/reporte-dhc/
 
-Libros publicos
+Libros publicos de google sheets
 
 https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit
 https://docs.google.com/spreadsheets/d/1Ju37Bsn-8JguN8Xd8-fVS9HPFsiT1dgi/edit#gid=550717797
