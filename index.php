@@ -73,7 +73,7 @@ $service = new Google_Service_Sheets($client);
 // Prints the names and majors of students in a sample spreadsheet:
 // https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit
 //https://docs.google.com/spreadsheets/d/1Ju37Bsn-8JguN8Xd8-fVS9HPFsiT1dgi/edit#gid=550717797
- 
+ $spreadsheetId = 'aqui el id de tu libro de google';
 $val=array();
 foreach ($range as  $data) {
  
