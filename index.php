@@ -102,7 +102,7 @@ $service = new Google_Service_Sheets($client);
 // Prints the names and majors of students in a sample spreadsheet:
 // https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit
 //https://docs.google.com/spreadsheets/d/1Ju37Bsn-8JguN8Xd8-fVS9HPFsiT1dgi/edit#gid=550717797
-//$spreadsheetId = '1ptvahs0Ea6jMDp73GU220eRv1yiF2JehAfgFzJeBccU';
+$spreadsheetId = 'aqui tu id de libro';
 //$range = array('Ef Fisica','Ef Comercial','Ef Energetica');
 $val=array();
 foreach ($range as  $data) {
